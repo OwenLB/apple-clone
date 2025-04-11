@@ -3,7 +3,6 @@
 Clone de la page officielle de l’iPhone 15 Pro d’Apple, réalisé avec **React.js**, **Tailwind CSS**, **GSAP** et **Three.js**. Ce projet met en avant un rendu 3D interactif et des animations fluides pour une expérience utilisateur immersive.
 
 🔗 [Voir le site en ligne](https://owenlb.github.io/apple-clone/)  
-📂 [Accéder au dépôt Git](https://github.com/OwenLB/apple-clone)
 
 ---
 
