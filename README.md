@@ -29,7 +29,7 @@ Clone de la page officielle de l’iPhone 15 Pro d’Apple, réalisé avec **Rea
 
 ## 🖼️ Aperçu
 
-![Mockup du clone iPhone 15 Pro](/images/projects/apple-clone/home.webp)
+![Mockup du clone iPhone 15 Pro](https://raw.githubusercontent.com/OwenLB/apple-clone/refs/heads/main/public/assets/images/mockup.png?token=GHSAT0AAAAAADCBVV4Y7OW2YU7PAWBZ2S7OZ7ZQ7JQ)
 
 ---
 
@@ -42,7 +42,7 @@ Clone de la page officielle de l’iPhone 15 Pro d’Apple, réalisé avec **Rea
 ## 🚀 Lancer le projet en local
 
 ```bash
-git clone https://github.com/OwenLB/iphone-15-pro-clone.git
-cd iphone-15-pro-clone
+git clone https://github.com/OwenLB/apple-clone.git
+cd apple-clone
 npm install
 npm run dev
