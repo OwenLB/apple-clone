@@ -1,6 +1,6 @@
 {
   "name": "apple_website",
-  "homepage": "https://OwenLB.github.io/apple_website/",
+  "homepage": "https://owenlb.github.io/apple-clone/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@gsap/react": "^2.1.0",
