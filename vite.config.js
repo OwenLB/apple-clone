@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/apple-clone",
+  base: "/apple-clone/",
 
   build: {
     sourcemap: true

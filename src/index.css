@@ -18,6 +18,11 @@ body {
   user-select: none;
 }
 
+main {
+  touch-action: pan-y;
+  overflow-y: auto;
+}
+
 canvas {
   touch-action: none;
 }
